@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCU 用户手册制作"
+  short_description: "从寄存器资料制作 MCU 用户手册，统一技术插图、表格、题注与 Word 排版"
+  default_prompt: "使用 $mcu-um-builder，根据寄存器数据和功能说明制作用户手册，统一图片及表格格式，并检查来源、目录和分页。"
