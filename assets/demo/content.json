@@ -1,0 +1,51 @@
+{
+  "synthetic": true,
+  "scope": "本示例展示功能说明、寄存器表、位图、系统框图、题注及来源追溯的组织方式。",
+  "source": "Synthetic example definition",
+  "peripherals": {
+    "GPIO": {
+      "overview": "通用输入输出模块仅定义最小控制接口，用于验证文档生成流程。",
+      "features": [
+        "一个 32 位可读写寄存器。",
+        "未列出的位未定义，不代表真实芯片的保留位。"
+      ],
+      "steps": [
+        "本节步骤来自合成定义，不适用于真实器件。",
+        "按位域说明写入寄存器，并读回确认所写字段。"
+      ],
+      "source": "Synthetic example definition"
+    },
+    "UART": {
+      "overview": "串行通信模块仅定义最小控制接口，用于验证文档生成流程。",
+      "features": [
+        "一个 32 位可读写寄存器。",
+        "未列出的位未定义，不代表真实芯片的保留位。"
+      ],
+      "steps": [
+        "本节步骤来自合成定义，不适用于真实器件。",
+        "按位域说明写入寄存器，并读回确认所写字段。"
+      ],
+      "source": "Synthetic example definition"
+    },
+    "TIMER": {
+      "overview": "定时计数模块仅定义最小控制接口，用于验证文档生成流程。",
+      "features": [
+        "一个 32 位可读写寄存器。",
+        "未列出的位未定义，不代表真实芯片的保留位。"
+      ],
+      "steps": [
+        "本节步骤来自合成定义，不适用于真实器件。",
+        "按位域说明写入寄存器，并读回确认所写字段。"
+      ],
+      "source": "Synthetic example definition"
+    }
+  },
+  "figures": [
+    {
+      "id": "architecture",
+      "title": "DemoMCU 示例系统结构",
+      "source": "Synthetic example definition",
+      "diagram": "architecture.json"
+    }
+  ]
+}

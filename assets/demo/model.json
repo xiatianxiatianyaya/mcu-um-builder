@@ -1,0 +1,118 @@
+{
+  "device": {
+    "name": "DemoMCU",
+    "version": "0.1",
+    "description": "DemoMCU 是演示用户手册生成流程的虚构器件，包含三个示例外设。"
+  },
+  "peripherals": [
+    {
+      "name": "GPIO",
+      "base_address": 1073741824,
+      "description": "通用输入输出示例",
+      "source": "Synthetic example definition / GPIO",
+      "registers": [
+        {
+          "name": "OUT",
+          "offset": 0,
+          "address": 1073741824,
+          "size": 32,
+          "access": "read-write",
+          "reset_value": 0,
+          "reset_mask": 4294967295,
+          "description": "通用输入输出的合成寄存器。",
+          "source": "Synthetic example definition",
+          "fields": [
+            {
+              "name": "DATA",
+              "lsb": 0,
+              "width": 8,
+              "access": "read-write",
+              "description": "数据输出位。",
+              "enums": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UART",
+      "base_address": 1073745920,
+      "description": "串行通信示例",
+      "source": "Synthetic example definition / UART",
+      "registers": [
+        {
+          "name": "CTRL",
+          "offset": 0,
+          "address": 1073745920,
+          "size": 32,
+          "access": "read-write",
+          "reset_value": 0,
+          "reset_mask": 4294967295,
+          "description": "串行通信的合成寄存器。",
+          "source": "Synthetic example definition",
+          "fields": [
+            {
+              "name": "EN",
+              "lsb": 0,
+              "width": 1,
+              "access": "read-write",
+              "description": "外设使能位。",
+              "enums": [
+                {
+                  "name": "DISABLED",
+                  "value": 0,
+                  "description": "禁止该示例外设。"
+                },
+                {
+                  "name": "ENABLED",
+                  "value": 1,
+                  "description": "使能该示例外设。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TIMER",
+      "base_address": 1073750016,
+      "description": "定时计数示例",
+      "source": "Synthetic example definition / TIMER",
+      "registers": [
+        {
+          "name": "CTRL",
+          "offset": 0,
+          "address": 1073750016,
+          "size": 32,
+          "access": "read-write",
+          "reset_value": 0,
+          "reset_mask": 4294967295,
+          "description": "定时计数的合成寄存器。",
+          "source": "Synthetic example definition",
+          "fields": [
+            {
+              "name": "EN",
+              "lsb": 0,
+              "width": 1,
+              "access": "read-write",
+              "description": "外设使能位。",
+              "enums": [
+                {
+                  "name": "DISABLED",
+                  "value": 0,
+                  "description": "禁止该示例外设。"
+                },
+                {
+                  "name": "ENABLED",
+                  "value": 1,
+                  "description": "使能该示例外设。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
