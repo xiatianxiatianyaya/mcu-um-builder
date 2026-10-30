@@ -1,0 +1,42 @@
+[
+  {
+    "file": "DemoMCU_UM.docx",
+    "sha256": "c422d332beafd3fa668b45cbf8d8a08720b40ddbee366ea373eec79d98590336"
+  },
+  {
+    "file": "figures/architecture.png",
+    "sha256": "045985d2e37a35db2e1db1461e2616a2dcf94289dd98125e79b50f68a2ea722c"
+  },
+  {
+    "file": "figures/architecture.svg",
+    "sha256": "abd091b34aa8a2dcce8ba35f5a2cd10d003702ada0401090d687ec5b3f7a38f8"
+  },
+  {
+    "file": "figures/reg_2_0.png",
+    "sha256": "2bb8c6bd47ef661fe952d0ea373ddeb6bcce867b84b61d69cb27ef3504b15388"
+  },
+  {
+    "file": "figures/reg_2_0.svg",
+    "sha256": "10d56b30acfe0ff2bbe9ae568f6de9a015441163f81d61727617428adce8e900"
+  },
+  {
+    "file": "figures/reg_3_0.png",
+    "sha256": "aa767241b40ac3decbcf351888f7d212cbf821d214b74a8796e599c09dbdbb13"
+  },
+  {
+    "file": "figures/reg_3_0.svg",
+    "sha256": "1b03e75f2825386c7b217626d90f78e9efb50c10e900f6102530ca17d70b3d2d"
+  },
+  {
+    "file": "figures/reg_4_0.png",
+    "sha256": "aa767241b40ac3decbcf351888f7d212cbf821d214b74a8796e599c09dbdbb13"
+  },
+  {
+    "file": "figures/reg_4_0.svg",
+    "sha256": "1b03e75f2825386c7b217626d90f78e9efb50c10e900f6102530ca17d70b3d2d"
+  },
+  {
+    "file": "validation.json",
+    "sha256": "de38d9ab6318e8243d182cfce15d3f36ae3002b33ac815e4602e810b1f1ee526"
+  }
+]
