@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="295" viewBox="0 0 600 295">
+<rect x="1" y="1" width="598" height="293" fill="white" stroke="black"/>
+<rect x="40" y="80" width="110" height="70" fill="none" stroke="black"/>
+<text x="95" y="115.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="16">CPU</text>
+<text x="95" y="137.4" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="16">虚构内核</text>
+<line x1="150" y1="115" x2="260" y2="115" stroke="black"/>
+<polygon points="260,115 252.7964231811786,118.47972427288984 252.7964231811786,111.52027572711016"/>
+<rect x="260" y="80" width="100" height="70" fill="none" stroke="black"/>
+<text x="310" y="115.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="16">示例总线</text>
+<line x1="360" y1="115" x2="445" y2="55" stroke="black"/>
+<polygon points="445,55 441.1216077589157,61.997004617998826 437.1082107180121,56.31135881005214"/>
+<rect x="445" y="25" width="110" height="60" fill="none" stroke="black"/>
+<text x="500" y="55.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="16">GPIO</text>
+<line x1="360" y1="115" x2="445" y2="150" stroke="black"/>
+<polygon points="445,150 437.0141059457142,150.47486435297148 439.6639146241971,144.0396147052273"/>
+<rect x="445" y="120" width="110" height="60" fill="none" stroke="black"/>
+<text x="500" y="150.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="16">UART</text>
+<line x1="360" y1="115" x2="445" y2="245" stroke="black"/>
+<polygon points="445,245 438.145423693288,240.87510198241668 443.970270656118,237.06654819902784"/>
+<rect x="445" y="215" width="110" height="60" fill="none" stroke="black"/>
+<text x="500" y="245.0" text-anchor="middle" dominant-baseline="central" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="16">TIMER</text>
+</svg>
